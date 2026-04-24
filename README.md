@@ -15,6 +15,9 @@
 | 03 | CSS | Look & Feel - Cascading style sheet |
 | 04 | JavaScript | Behavior - Programing Languaje |
 
+![profile](/src/imgs/img1.jpg)
+***Juan Sebastian Morales M***
+
 [ADSO Files DRIVE](https://tinyurl.com/wnkk334u)
 
 [VERCEL URL](https://vercel.app)
